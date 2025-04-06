@@ -8,7 +8,7 @@ OpenComputers provides more limitations, and has the ability to write proper cus
 We're currently mainly working on [KOCOS](https://github.com/AdvancedOC/KOCOS), a kernel which we will use to make an OS in the future, but we have some other projects here aswell:
 - [FrostOS](https://github.com/AdvancedOC/FrostOS): this was our first succesful attempt at writing an OpenComputers OS.
 - [Diskless](https://github.com/AdvancedOC/Diskless): this is a library you can use to create virtualized filesystems in RAM, which was used to make the live installer for FrostOS work.
-- [TinyOC](https://github.com/AdvancedOC/TinyOC): a very basic OpenComputers emulator writtin in Lua with Love2D. It doesn't implement much, but can run some basic OSes, and is somewhat useful for testing.
+- [TinyOC](https://github.com/AdvancedOC/TinyOC): a very basic OpenComputers emulator written in Lua with Love2D. It doesn't implement much, but can run some basic OSes, and is somewhat useful for testing.
 ## Partners:
 We currently only have a singular partnered organization:
 - [LibreFlock](https://github.com/LibreFlock/): this is an organization that also does OpenComputers-related projects, that's owned by some of our friends.
