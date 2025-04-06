@@ -7,6 +7,7 @@ OpenComputers provides more limitations, and has the ability to write proper cus
 ## So, what are you working on?
 We're currently mainly working on a kernel, which we'll then use to make an OS:
 - [KOCOS](https://github.com/AdvancedOC/KOCOS): a kernel
+
 But we have some other projects here aswell:
 - [FrostOS](https://github.com/AdvancedOC/FrostOS): this was our first succesful attempt at writing an OpenComputers OS.
 - [Diskless](https://github.com/AdvancedOC/Diskless): this is a library you can use to create virtualized filesystems in RAM, which was used to make the live installer for FrostOS work.
